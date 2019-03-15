@@ -1,32 +1,26 @@
-@font-face {
-    font-family: "Hiragino Kaku Gothic ProN", "メイリオ", sans-serif;
-}
-
 body {
     background-color: #F5F5F5;
 }
 
 #contents {
     margin: 50px;
+    font-family: "Hiragino Kaku Gothic ProN", "メイリオ", sans-serif;
 }
 
 .pj {
-    letter-spacing: -100px;
+    clear: both;
 }
 
 .pj_image {
-    display: inline-block;
+    display: block;
+    float: left;
     padding: 15px;
-    letter-spacing: normal;
 }
 
 .pj_text {
-    display: inline-block;
     vertical-align: top;
-    margin-top: 30px;
+    padding-top: 50px;
     margin-bottom: 30px;
-    width: 600px;
-    letter-spacing: normal;
 }
 
 .pj_title a{
@@ -37,4 +31,8 @@ body {
 
 .pj_keywords{
     margin-top: 40px;
+}
+
+hr {
+    clear: both;
 }
