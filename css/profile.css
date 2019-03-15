@@ -1,6 +1,9 @@
+@font-face {
+    font-family: "Hiragino Kaku Gothic ProN", "メイリオ", sans-serif;
+}
+
 body {
     background-color: #F5F5F5;
-    font-family: "Hiragino Kaku Gothic ProN", "メイリオ", sans-serif;
 }
 
 #contents {
@@ -17,6 +20,7 @@ body {
     vertical-align: top;
     margin-top: 30px;
     margin-bottom: 30px;
+    width: 600px;
 }
 
 .pj_title a{
