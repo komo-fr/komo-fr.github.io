@@ -2,3 +2,27 @@ body {background-color: #F5F5F5;}
 
 #contents {margin: 50px;}
 
+.pj {
+}
+
+.pj_image {
+    display: inline-block;
+    padding: 15px;
+}
+
+.pj_text {
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.pj_title a{
+    color: #02AEDC;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.pj_keywords{
+    margin-top: 40px;
+}
