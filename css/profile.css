@@ -1,8 +1,10 @@
-body {background-color: #F5F5F5;}
+body {
+    background-color: #F5F5F5;
+    font-family: "Hiragino Kaku Gothic ProN", "メイリオ", sans-serif;
+}
 
-#contents {margin: 50px;}
-
-.pj {
+#contents {
+    margin: 50px;
 }
 
 .pj_image {
