@@ -29,8 +29,11 @@ body {
     font-weight: bold;
 }
 
-.pj_keywords{
+.pj_description {
     margin-top: 40px;
+}
+
+.pj_keywords{
 }
 
 hr {
